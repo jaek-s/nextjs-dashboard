@@ -32,5 +32,9 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "printWidth": 88
   }
 }
